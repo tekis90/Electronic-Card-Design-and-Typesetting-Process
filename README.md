@@ -13,4 +13,4 @@ Box-shadow and Transitions: Advanced effects and dynamic transitions for aesthet
 SEO Compatibility: Page structure and content are designed in accordance with SEO optimization.
 🚀 With these technologies, I ensured fast loading times, high performance and excellent user experience on every device. Every detail in my project is combined with a user-friendly interface and visual aesthetics.
 
-Translated with DeepL.com (free version)
+
